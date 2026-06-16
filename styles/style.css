@@ -41,6 +41,7 @@ p {
 .hero {
 	position: relative;
 	width: 100%;
+	max-width: 1200px
 	min-height: 75vh;
 	overflow: hidden;
 }
@@ -49,6 +50,7 @@ p {
 	position: absolute;
 	inset: 0;
 	width: 100%;
+	max-width: 1200px;
 	height: 100%;
 	object-fit: cover;
 	z-index: -1;
